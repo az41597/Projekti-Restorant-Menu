@@ -1,0 +1,31 @@
+.menu {
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
+  .searchInput {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .item {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .detailsLink {
+    color: blue;
+    text-decoration: none;
+  }
+  
+  .detailsLink:hover {
+    text-decoration: underline;
+  }
+  
+  .noResults {
+    color: red;
+    font-style: italic;
+  }
+  
